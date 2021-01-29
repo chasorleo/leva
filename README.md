@@ -1,2 +1,0 @@
-# leva
-personal tech web
